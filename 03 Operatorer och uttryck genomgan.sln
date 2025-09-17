@@ -9,6 +9,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 Dividera med 7 och 5", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 Beräkna rektangelns area", "03 Beräkna rektangelns area\03 Beräkna rektangelns area.csproj", "{341749A7-2B3D-4ABE-8D3B-978B00AB9EA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 Är tredje värdesiffran 7", "04 Är tredje värdesiffran 7\04 Är tredje värdesiffran 7.csproj", "{C18ED7F5-FA96-4103-89CC-BEB2F2464AF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 Är en punkt inuti en cirkel", "05 Är en punkt inuti en cirkel\05 Är en punkt inuti en cirkel.csproj", "{9EC02BB2-7B8A-4462-9757-91359308842F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 Primtal", "06 Primtal\06 Primtal.csproj", "{AA2DC723-F952-453D-868E-F0384EFF9CAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07 Beräkna parallelltrapetsens area", "07 Beräkna parallelltrapetsens area\07 Beräkna parallelltrapetsens area.csproj", "{30261F95-2D6E-4CBB-8F3E-5263CE5DA6FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08 Punkt inuti en cirk o utanf rekt", "08 Punkt inuti en cirk o utanf rekt\08 Punkt inuti en cirk o utanf rekt.csproj", "{26F2A1EB-9D84-4E58-8B78-C74B9724ADD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +37,26 @@ Global
 		{341749A7-2B3D-4ABE-8D3B-978B00AB9EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{341749A7-2B3D-4ABE-8D3B-978B00AB9EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{341749A7-2B3D-4ABE-8D3B-978B00AB9EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C18ED7F5-FA96-4103-89CC-BEB2F2464AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C18ED7F5-FA96-4103-89CC-BEB2F2464AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C18ED7F5-FA96-4103-89CC-BEB2F2464AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C18ED7F5-FA96-4103-89CC-BEB2F2464AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EC02BB2-7B8A-4462-9757-91359308842F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC02BB2-7B8A-4462-9757-91359308842F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC02BB2-7B8A-4462-9757-91359308842F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC02BB2-7B8A-4462-9757-91359308842F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA2DC723-F952-453D-868E-F0384EFF9CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2DC723-F952-453D-868E-F0384EFF9CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2DC723-F952-453D-868E-F0384EFF9CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2DC723-F952-453D-868E-F0384EFF9CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30261F95-2D6E-4CBB-8F3E-5263CE5DA6FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30261F95-2D6E-4CBB-8F3E-5263CE5DA6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30261F95-2D6E-4CBB-8F3E-5263CE5DA6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30261F95-2D6E-4CBB-8F3E-5263CE5DA6FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26F2A1EB-9D84-4E58-8B78-C74B9724ADD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F2A1EB-9D84-4E58-8B78-C74B9724ADD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F2A1EB-9D84-4E58-8B78-C74B9724ADD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F2A1EB-9D84-4E58-8B78-C74B9724ADD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
